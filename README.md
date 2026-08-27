@@ -103,9 +103,12 @@ developer:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=andrade111&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=andrade111&theme=dark&hide_border=true" alt="Streak" />
-  <img height="150" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=andrade111&layout=compact&theme=dark&hide_border=true" alt="Languages" />
+  <a href="https://github.com/andrade111">
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrade111&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
+  <a href="https://github.com/andrade111">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrade111&theme=dark&hide_border=true" alt="Streak Stats" />
+  </a>
 </div>
 
 ---
