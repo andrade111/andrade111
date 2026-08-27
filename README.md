@@ -104,9 +104,6 @@ developer:
 
 <div align="center">
   <a href="https://github.com/andrade111">
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=andrade111&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
-  <a href="https://github.com/andrade111">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andrade111&theme=dark&hide_border=true" alt="Streak Stats" />
   </a>
 </div>
