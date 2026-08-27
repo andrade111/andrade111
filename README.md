@@ -103,8 +103,15 @@ developer:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrade111&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade111&layout=compact&theme=dark&hide_border=true" />
+  <a href="https://github.com/andrade111">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=andrade111&show_icons=true&theme=dark&count_private=true&hide_border=true&include_all_commits=true" alt="Gabriel's GitHub Stats" />
+  </a>
+  <a href="https://github.com/andrade111">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=andrade111&theme=dark&hide_border=true" alt="Gabriel's GitHub Streak" />
+  </a>
+  <a href="https://github.com/andrade111">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade111&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 ---
