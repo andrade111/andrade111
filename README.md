@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Animação Digitação -->
   <a href="https://github.com/andrade111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Andrade!+%F0%9F%90%B1%E2%80%8D%F0%9F%90%CD;Full-Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+Machine+Learning+%E2%80%A2+SQL;Construindo+sistemas+escal%C3%A1veis+e+inteligentes..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Andrade!+%F0%9F%90%B1%E2%80%8D%F0%9F%90%CD;Full-Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+Machine+Learning+%E2%80%A2+SQL;Sistemas+escal%C3%A1veis+e+inteligentes..." alt="Typing SVG" />
   </a>
 
   <br/><br/>
