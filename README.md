@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Animação Digitação -->
+  <!-- Animação Digitação Corrigida -->
   <a href="https://github.com/andrade111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vcenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Andrade!+%F0%9F%90%B1%E2%80%8D%F0%9F%90%CD;Full-Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+Machine+Learning+%E2%80%A2+SQL;Sistemas+escal%C3%A1veis+e+inteligentes..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Andrade!+%F0%9F%90%B1%E2%80%8D%F0%9F%90%CD;Full-Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+ML;Construindo+sistemas+escal%C3%A1veis+e+inteligentes..." alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -52,7 +52,7 @@ Desenvolvedor **Full-Stack** focado na construção de **aplicações robustas, 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/andrade111/NexaReviewsAI">NexaReviews AI</a></h4>
+      <h4>🤖 <a href="https://github.com/andrade111/NexaReviews-AI">NexaReviews AI</a></h4>
       <p>Sistema modular de análise de sentimentos em avaliações de e-commerce utilizando Processamento de Linguagem Natural (NLP) e Machine Learning (TF-IDF + Regressão Logística).</p>
       <sub><code>Python</code> <code>NLP</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>Seaborn</code></sub>
     </td>
