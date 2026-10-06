@@ -52,7 +52,7 @@ Desenvolvedor **Full-Stack** focado na construção de **aplicações robustas, 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/andrade111/NexaReviews-AI">NexaReviews AI</a></h4>
+      <h4>🤖 <a href="https://github.com/andrade111/NexaReviewsAI">NexaReviews AI</a></h4>
       <p>Sistema modular de análise de sentimentos em avaliações de e-commerce utilizando Processamento de Linguagem Natural (NLP) e Machine Learning (TF-IDF + Regressão Logística).</p>
       <sub><code>Python</code> <code>NLP</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>Seaborn</code></sub>
     </td>
