@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/33937676/github_profile_readme.md)
 <!-- HEADER BANNER & ANIMATION -->
 <p align="center">
   <a href="https://linkedin.com/in/andradegabrieldev-fullstack">
