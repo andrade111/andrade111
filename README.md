@@ -1,145 +1,165 @@
-<div align="center">
-  <!-- Animação Digitação Corrigida -->
-  <a href="https://github.com/andrade111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Andrade!+%F0%9F%90%B1%E2%80%8D%F0%9F%90%CD;Full-Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Python+%E2%80%A2+ML;Construindo+sistemas+escal%C3%A1veis+e+inteligentes..." alt="Typing SVG" />
+[github_profile_readme.md](https://github.com/user-attachments/files/33937676/github_profile_readme.md)
+<!-- HEADER BANNER & ANIMATION -->
+<p align="center">
+  <a href="https://linkedin.com/in/andradegabrieldev-fullstack">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Gabriel%20Andrade&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20|%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20AI&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
   </a>
+</p>
 
-  <br/><br/>
+<!-- TYPING EFFECT HEADING -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=System.out.println(%22Ol%C3%A1%2C%20mundo!%20%F0%9F%90%A7%22);;print(%22Transformando%20l%C3%B3gica%20em%20solu%C3%A7%C3%B5es%22);;Building%20scalable%20REST%20APIs%20%26%20AI%20SaaS;2%C2%BA%20Lugar%20no%20Hackathon%2B%20Minera%C3%A7%C3%A3o!" alt="Typing SVG" />
+  </a>
+</p>
 
-  <!-- Badges de Destaque Animadas -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-36BCF7?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Location-Brazil-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Achievements-2º%20Lugar%20Hackathon-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
-  </p>
-
-  <!-- Banner GIF Animado Decorativo -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<br/>
-
-### 👨‍💻 // Sobre Mim
-
-Desenvolvedor **Full-Stack** focado na construção de **aplicações robustas, APIs RESTful escaláveis, soluções de Inteligência Artificial e sistemas orientados a objetos**. Tenho vivência prática na aplicação de Clean Code, arquitetura em camadas e resolução de problemas complexos sob pressão em hackathons.
-
-- 🤖 **Inovação & IA:** Desenvolvimento de modelos de NLP e Machine Learning para análise de dados e automação de processos.
-- 🏆 **Conquista em Destaque:** 2º Lugar no meu 1º Hackathon com o projeto **licenseAI**.
-- 🔭 **Foco de Atuação:** Arquitetura Full-Stack, Java (Spring Boot), Python (Data Science & ML) e bancos de dados relacionais e NoSQL.
-- 💼 **Objetivo:** Aberto a oportunidades como **Full-Stack Developer**.
+<p align="center">
+  <a href="https://linkedin.com/in/andradegabrieldev-fullstack">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:andrade.devg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://github.com/andrade111">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ // Tech Stack & Ferramentas
+## 🛠️ Interactive Developer Terminal
 
-<div align="center">
+```bash
+gabriel@system:~$ ./about_me.sh --full
 
-| Categoria | Tecnologias & Frameworks |
-| :--- | :--- |
-| **Linguagens** | <img src="https://img.shields.io/badge/Java_11+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **Backend & AI/ML** | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> |
-| **Bancos de Dados** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> |
-| **DevOps & Ferramentas** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
-| **Arquitetura** | `REST APIs` • `Layered Architecture` • `DTO Pattern` • `Clean Code` • `NLP & ML Pipelines` |
+[+] Name: Gabriel Andrade Oliveira
+[+] Location: Salvador, BA - Brazil 🌴
+[+] Current Status: Estagiário de TI @ Santa Casa da Bahia 🏥
+[+] Entrepreneurship: Co-fundador @ LicenseAI (Residência MINEXHUB) 🚀
+[+] Leadership: Co-fundador & Diretor ADM-FIN @ Théia EJ | Diretoria @ LAMIT
+[+] Education: Análise e Desenvolvimento de Sistemas @ UCSal | 4 semestres B.I @ UFBA
+[+] Superpower: Transformar café e especificações em APIs REST escaláveis e soluções com IA.
+```
 
-</div>
+<details>
+  <summary>🔍 <b>[EASTER EGG] Clique para ver o código fonte do Gabriel</b></summary>
+
+  ```java
+  public class Developer extends Human implements Innovator {
+      private String[] stack = {"Java", "Spring Boot", "Python", "TypeScript", "React"};
+      private boolean hasCoffee = true;
+
+      public void buildSolution() {
+          while (hasCoffee) {
+              try {
+                  codeCleanArchitecture();
+                  integrateAI();
+                  winHackathon();
+              } catch (BugException e) {
+                  this.debugWithPersistence();
+              }
+          }
+      }
+  }
+  ```
+</details>
 
 ---
 
-### 🚀 // Showcase de Repositórios
+## 🏆 Conquistas & Highlights
 
-<table width="100%">
+- 🥈 **2º Lugar no Hackathon+ Mineração**: Co-fundador e dev do **LicenseAI** (SaaS B2B de auditoria regulatória e inteligência para o setor minerário).
+- 🏢 **Residência MINEXHUB**: Startup **LicenseAI** selecionada para o programa acelerador de inovação aberta.
+- 🎓 **EdTech Kibox (Hacktudo)**: Desenvolvimento de solução EdTech com IA para processamento de áudio em tempo real e desafios gamificados.
+- ⚡ **Liderança Universitária**: Co-fundador da **Théia EJ** (Primeira Empresa Júnior de TI da UCSal) e Ligante Administrativo na **LAMIT**.
+
+---
+
+## 🧰 Tech Stack & Ferramentas
+
+### Backend & Core Architecture
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![REST API](https://img.shields.io/badge/REST%20APIs-0055E5?style=for-the-badge&logo=json&logoColor=white)
+
+### Frontend & UI Design
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Bancos de Dados & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/andrade111/NexaReviewsAI">NexaReviews AI</a></h4>
-      <p>Sistema modular de análise de sentimentos em avaliações de e-commerce utilizando Processamento de Linguagem Natural (NLP) e Machine Learning (TF-IDF + Regressão Logística).</p>
-      <sub><code>Python</code> <code>NLP</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>Seaborn</code></sub>
+    <td width="50%">
+      <h3 align="center">🌱 NexaReviewsAI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-IA-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-NLP-0055E5?style=flat-square" />
+      </p>
+      <p>Plataforma inteligente para análise e processamento de avaliações e dados automatizados com IA.</p>
+      <p align="center">
+        <a href="https://github.com/andrade111/NexaReviewsAI"><b> Ver Repositório »</b></a>
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🏆 <a href="https://github.com/andrade111/licenseaii">licenseAI</a></h4>
-      <p><b>2º Lugar no meu 1º Hackathon! 🥈</b> Solução desenvolvida com inteligência artificial para análise e gestão otimizada de licenças em ritmo acelerado e sob pressão.</p>
-      <sub><code>Python</code> <code>IA</code> <code>Hackathon</code> <code>2nd Place 🏆</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🍃 <a href="https://github.com/andrade111/apiRest_mongodb">apiRest_mongodb</a></h4>
-      <p>API RESTful de rede social em Spring Boot e MongoDB. Aplicação de DTOs, buscas customizadas via <code>@Query</code> com regex e tratamento global de exceções.</p>
-      <sub><code>Java</code> <code>Spring Boot</code> <code>MongoDB</code> <code>REST</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>♟️ <a href="https://github.com/andrade111/ChessGame">ChessGame</a></h4>
-      <p>Jogo de xadrez em terminal com regras oficiais (Roque, En Passant, Promoção), renderização em cores ANSI e arquitetura em camadas desacopladas.</p>
-      <sub><code>Java</code> <code>POO</code> <code>CLI</code> <code>ANSI</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚘 <a href="https://github.com/andrade111/CarRental_Java">CarRental_Java</a></h4>
-      <p>Sistema de aluguel de veículos focado em Inversão de Controle (IoC) e Injeção de Dependência via interfaces para serviços de cálculo de taxas.</p>
-      <sub><code>Java</code> <code>Interfaces</code> <code>Injeção de Dependência</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏦 <a href="https://github.com/andrade111/banking-system_python">banking-system_python</a></h4>
-      <p>Sistema bancário interativo via CLI em Python com validação de limites diários de saque, depósitos, extrato e cadastro de clientes e contas.</p>
-      <sub><code>Python</code> <code>CLI</code> <code>Regras de Negócio</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏋️ <a href="https://github.com/andrade111/academia">academia</a></h4>
-      <p>Sistema de gerenciamento de academias para controle de alunos, controle financeiro de mensalidades e montagem de fichas de treino por grupo muscular.</p>
-      <sub><code>Java</code> <code>SQL</code> <code>Regras de Negócio</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 <a href="https://github.com/andrade111/javafx-jdbc">javafx-jdbc</a></h4>
-      <p>Aplicação desktop em JavaFX com persistência de dados via JDBC e banco relacional, aplicando o padrão DAO (Data Access Object).</p>
-      <sub><code>Java</code> <code>JavaFX</code> <code>JDBC</code> <code>MySQL</code></sub>
+    <td width="50%">
+      <h3 align="center">🌱 API REST (Spring Boot + MongoDB)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p>Modelagem de rede social em NoSQL com tratamento global de exceções, DTOs e buscas otimizadas.</p>
+      <p align="center">
+        <a href="https://github.com/andrade111/apiRest_mongodb"><b> Ver Repositório »</b></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 // GitHub Stats & Animações
+## 📊 GitHub Analytics & Snake Game
 
-<div align="center">
-  <a href="https://github.com/andrade111">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrade111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade111&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrade111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade111&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/andrade111">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrade111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<!-- Animação Snake da Contribuição -->
-<div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/andrade111/andrade111/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<!-- GAMIFIED SNAKE CONTRIBUTIONS -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrade111/andrade111/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrade111/andrade111/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrade111/andrade111/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-### 📬 // Conecte-se Comigo
+## 🕹️ Desenvolvedor em Ação (Mini RPG Mini-Game)
 
-<div align="center">
+```
+ [START] ──> ☕ Tomar Café ──> 💻 Escrever Código Limpo ──> 🧪 Testes de Integração
+                                                                    │
+   🎉 Hackathon Vencido <── 🚀 Deploy em Produção <── 🔍 Code Review PASS
+```
 
-  <a href="https://github.com/andrade111" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+---
 
-  <br/><br/>
+<p align="center">
+  <b>💬 Que tal batermos um papo sobre backend, IA ou novas oportunidades?</b><br/>
+  <a href="https://linkedin.com/in/andradegabrieldev-fullstack">Me envie uma mensagem no LinkedIn! 📩</a>
+</p>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Quote" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andrade111&color=0072ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
