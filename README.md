@@ -1,126 +1,78 @@
-<!-- HEADER BANNER & ANIMATION -->
-<p align="center">
-  <a href="https://linkedin.com/in/andradegabrieldev-fullstack">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Gabriel%20Andrade&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20|%20Java%20%E2%80%A2%20Python%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20AI&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
-  </a>
-</p>
+<div align="center">
 
-<!-- TYPING EFFECT HEADING -->
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=System.out.println(%22Ol%C3%A1%2C%20mundo!%20%F0%9F%90%A7%22);;print(%22Transformando%20l%C3%B3gica%20em%20solu%C3%A7%C3%B5es%22);;Building%20scalable%20REST%20APIs%20%26%20AI%20SaaS;2%C2%BA%20Lugar%20no%20Hackathon%2B%20Minera%C3%A7%C3%A3o!" alt="Typing SVG" />
-  </a>
-</p>
+  <!-- Header GIF Animado (Tech / Coding) -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Header GIF">
 
-<p align="center">
-  <a href="https://linkedin.com/in/andradegabrieldev-fullstack">
+  # 🚀 Gabriel Andrade
+  ### 🤖 Software Engineer | Full-Stack & Artificial Intelligence
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=IA+%26+Machine+Learning+Developer;Full-Stack+Developer+(Java+%7C+Python);APIs+RESTful+%26+Arquitetura+de+Software;Transformando+L%C3%B3gica+em+Solu%C3%A7%C3%B5es+de+Impacto;" alt="Typing SVG" />
+  </p>
+
+  <!-- Badges de Redes e Contato -->
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:andrade.devg@gmail.com">
+  <a href="mailto:andradedevg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://github.com/andrade111">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-</p>
+
+</div>
+
+<br>
 
 ---
 
-## 🛠️ Interactive Developer Terminal
+## ⚡ Sobre Mim
 
-```bash
-gabriel@system:~$ ./about_me.sh --full
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding GIF">
 
-[+] Name: Gabriel Andrade Oliveira
-[+] Location: Salvador, BA - Brazil 🌴
-[+] Current Status: Estagiário de TI @ Santa Casa da Bahia 🏥
-[+] Entrepreneurship: Co-fundador @ LicenseAI (Residência MINEXHUB) 🚀
-[+] Leadership: Co-fundador & Diretor ADM-FIN @ Théia EJ | Diretoria @ LAMIT
-[+] Education: Análise e Desenvolvimento de Sistemas @ UCSal | 4 semestres B.I @ UFBA
-[+] Superpower: Transformar café e especificações em APIs REST escaláveis e soluções com IA.
-```
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UCSal) & Bacharelado Interdisciplinar (UFBA).
+- 🧠 **Foco de Atuação:** Desenvolvimento Full-Stack, Inteligência Artificial, Machine Learning e APIs RESTful escaláveis.
+- 🏆 **Hackathons & Inovação:** Premiado em **2º lugar no Hackathon+ Mineração** com o projeto *LicenseAI* e desenvolvedor do *Kibox* no **Hacktudo 2026**.
+- 💡 **Diferencial:** Forte base analítica/lógica aliada à capacidade de resolver problemas sob pressão e criar MVPs/SaaS inovadores.
+- 💬 **Vamos conversar sobre:** *Inteligência Artificial, Visão Computacional, Spring Boot, Python e Arquitetura de Software*.
 
-<details>
-  <summary>🔍 <b>[EASTER EGG] Clique para ver o código fonte do Gabriel</b></summary>
-
-  ```java
-  public class Developer extends Human implements Innovator {
-      private String[] stack = {"Java", "Spring Boot", "Python", "TypeScript", "React"};
-      private boolean hasCoffee = true;
-
-      public void buildSolution() {
-          while (hasCoffee) {
-              try {
-                  codeCleanArchitecture();
-                  integrateAI();
-                  winHackathon();
-              } catch (BugException e) {
-                  this.debugWithPersistence();
-              }
-          }
-      }
-  }
-  ```
-</details>
+<br clear="left"/>
 
 ---
 
-## 🏆 Conquistas & Highlights
+## 🔥 Projetos em Destaque (Inteligência Artificial)
 
-- 🥈 **2º Lugar no Hackathon+ Mineração**: Co-fundador e dev do **LicenseAI** (SaaS B2B de auditoria regulatória e inteligência para o setor minerário).
-- 🏢 **Residência MINEXHUB**: Startup **LicenseAI** selecionada para o programa acelerador de inovação aberta.
-- 🎓 **EdTech Kibox (Hacktudo)**: Desenvolvimento de solução EdTech com IA para processamento de áudio em tempo real e desafios gamificados.
-- ⚡ **Liderança Universitária**: Co-fundador da **Théia EJ** (Primeira Empresa Júnior de TI da UCSal) e Ligante Administrativo na **LAMIT**.
-
----
-
-## 🧰 Tech Stack & Ferramentas
-
-### Backend & Core Architecture
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![REST API](https://img.shields.io/badge/REST%20APIs-0055E5?style=for-the-badge&logo=json&logoColor=white)
-
-### Frontend & UI Design
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Bancos de Dados & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📌 Projetos em Destaque
+<br>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌱 NexaReviewsAI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-IA-3670A0?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-NLP-0055E5?style=flat-square" />
+    <td width="50%" align="center">
+      <h3>🤖 NexaReviews AI</h3>
+      <p>
+        Plataforma inteligente voltada para a análise, classificação e processamento automatizado de feedbacks e reviews utilizando IA.
       </p>
-      <p>Plataforma inteligente para análise e processamento de avaliações e dados automatizados com IA.</p>
-      <p align="center">
-        <a href="https://github.com/andrade111/NexaReviewsAI"><b> Ver Repositório »</b></a>
+      <p>
+        <b>Techs:</b> Python • AI/ML • Data Processing
+      </p>
+      <p>
+        <a href="https://github.com/andrade111/NexaReviewsAI">
+          <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🌱 API REST (Spring Boot + MongoDB)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <td width="50%" align="center">
+      <h3>👁️ VisionNet (CIFAR-10)</h3>
+      <p>
+        Rede Neural Convolucional / Modelo de Visão Computacional de alta precisão treinado para classificação de imagens no dataset CIFAR-10.
       </p>
-      <p>Modelagem de rede social em NoSQL com tratamento global de exceções, DTOs e buscas otimizadas.</p>
-      <p align="center">
-        <a href="https://github.com/andrade111/apiRest_mongodb"><b> Ver Repositório »</b></a>
+      <p>
+        <b>Techs:</b> PyTorch/TensorFlow • Computer Vision • Deep Learning
+      </p>
+      <p>
+        <a href="https://github.com/andrade111/VisionNet-CIFAR10">
+          <img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -128,37 +80,61 @@ gabriel@system:~$ ./about_me.sh --full
 
 ---
 
-## 📊 GitHub Analytics & Snake Game
+## 🛠️ Tech Stack & Ferramentas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrade111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade111&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
+<div align="center">
 
-<!-- GAMIFIED SNAKE CONTRIBUTIONS -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrade111/andrade111/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrade111/andrade111/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrade111/andrade111/output/github-contribution-grid-snake.svg">
-</picture>
+  ### 🤖 Inteligência Artificial & Data Science
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <br>
+
+  ### ⚙️ Backend & Arquitetura
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0055E5?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+  <br>
+
+  ### 💻 Frontend
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
+
+  <br>
+
+  ### 🗄️ Bancos de Dados, DevOps & Ferramentas
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+</div>
 
 ---
 
-## 🕹️ Desenvolvedor em Ação (Mini RPG Mini-Game)
+## 📊 Estatísticas do GitHub
 
-```
- [START] ──> ☕ Tomar Café ──> 💻 Escrever Código Limpo ──> 🧪 Testes de Integração
-                                                                    │
-   🎉 Hackathon Vencido <── 🚀 Deploy em Produção <── 🔍 Code Review PASS
-```
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrade111&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade111&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
 
----
+<br>
 
-<p align="center">
-  <b>💬 Que tal batermos um papo sobre backend, IA ou novas oportunidades?</b><br/>
-  <a href="https://linkedin.com/in/andradegabrieldev-fullstack">Me envie uma mensagem no LinkedIn! 📩</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrade111&color=0072ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<div align="center">
+  <!-- Footer Waving GIF Decorativo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+</div>
