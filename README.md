@@ -29,15 +29,10 @@
 
 ## ⚡ Sobre Mim
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Coding GIF">
-
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (UCSal) & Bacharelado Interdisciplinar (UFBA).
 - 🧠 **Foco de Atuação:** Desenvolvimento Full-Stack, Inteligência Artificial, Machine Learning e APIs RESTful escaláveis.
 - 🏆 **Hackathons & Inovação:** Premiado em **2º lugar no Hackathon+ Mineração** com o projeto *LicenseAI* e desenvolvedor do *Kibox* no **Hacktudo 2026**.
 - 💡 **Diferencial:** Forte base analítica/lógica aliada à capacidade de resolver problemas sob pressão e criar MVPs/SaaS inovadores.
 - 💬 **Vamos conversar sobre:** *Inteligência Artificial, Visão Computacional, Spring Boot, Python e Arquitetura de Software*.
-
-<br clear="left"/>
 
 ---
 
